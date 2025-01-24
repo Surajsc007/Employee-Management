@@ -31,6 +31,7 @@
     * Email library (e.g., JavaMail) for email integration.
     * Logging framework (e.g., Log4j, SLF4j) for logging and debugging.
 
+
 **Getting Started with Employee Management Application**
 1. Clone the repository
 2. Install required dependencies (Spring, JSP, DevTools, Servlet, SQL driver)
