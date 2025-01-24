@@ -17,7 +17,6 @@
 ![image](https://github.com/user-attachments/assets/cc5d432e-8030-4a82-b900-0e322d9f3ce8)
 
 **Technologies Used:**
-
 * **Spring Framework:**
     * Spring MVC: For building the web application and handling HTTP requests.
     * Spring Data JPA: For simplifying database interactions.
